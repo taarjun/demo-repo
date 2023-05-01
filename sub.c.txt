@@ -1,0 +1,6 @@
+#include"fork_lib.h"
+
+int inclusion(int, int)
+{
+	return 1;
+}
