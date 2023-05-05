@@ -2,8 +2,9 @@
 
 void add()
 {
-	int a,b,c;
+	int a = 10,b=20,c=30;
 	a = b + c;
+	printf("%d\n",a);
 }
 
 int main()
