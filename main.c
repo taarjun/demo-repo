@@ -11,6 +11,11 @@ void mult()
 	int a,b,c;
 	a = b*+ c;
 }
+void sub()
+{
+	int a,b,c;
+	a = b - c;
+}
 
 int main()
 {
@@ -18,5 +23,6 @@ int main()
 	printf("How are you\n");
 	add();
 	mult();
+	sub();
 	return 0;
 }
